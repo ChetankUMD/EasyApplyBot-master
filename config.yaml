@@ -36,15 +36,15 @@ jobTypes:
 
 # Set ONLY one as True to suit your preference.
 date:
- all time: True
+ all time: False
  month: False
- week: False
+ week: True
  24 hours: False
 
 # Remove hash sign to add positions. You can add as many as you need,
 # but preserve formatting
 positions:
- - Software Developer intern
+#  - Software Developer intern
  - Summer software internship
  - Software Engineer intern
  - Summer intern
@@ -59,7 +59,7 @@ locations:
  #- A second location
  #- A third location
  #- ...
- - Remote
+#  - Remote
 
 # Set to True if you are residing in the country of job
 residentStatus: True
@@ -236,7 +236,7 @@ personalInfo:
  Phone Country Code: USA (+1) # See Linkedin for your country code, must be exact according to the international platform, i.e. Italy (+39) not Italia (+39)
  Mobile Phone Number: 2403984254
  Street address: 3405 Tulane Dr
- City: Hysttville # Include the state/province as well!
+ City: Hyattsville, Maryland # Include the state/province as well!
  State: Maryland
  Zip: 20783
  Linkedin: https://www.linkedin.com/in/chetan-rajesh-7a39a71b8/
